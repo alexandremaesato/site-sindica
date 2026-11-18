@@ -1,0 +1,16 @@
+# Material original da campanha (contém o nome da antiga chapa e conversa privada do grupo)
+chat.txt
+Resumo_Proposta_*.PDF
+Resumo_Proposta_*.pdf
+WhatsApp Image *.jpeg
+WhatsApp Image *.jpg
+
+# Configurações locais do Claude Code
+.claude/settings.local.json
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+node_modules/
