@@ -197,6 +197,18 @@ section[id], main[id] { scroll-margin-top: calc(var(--topo-altura) + 8px); }
 .sem-promessas h3 { color: var(--azul-escuro) !important; font-size: 1.35rem; }
 .sem-promessas p { margin: 0; }
 
+/* ===== Artes (galeria) ===== */
+.galeria { list-style: none; display: grid; gap: var(--esp-3); grid-template-columns: 1fr; margin-top: var(--esp-3); }
+.galeria__item {
+  display: block; height: 100%; background: var(--branco); border: 1px solid var(--borda);
+  border-radius: var(--raio); box-shadow: var(--sombra); overflow: hidden; text-decoration: none;
+  transition: transform .15s;
+}
+.galeria__item:hover { transform: translateY(-2px); }
+.galeria__item img { display: block; width: 100%; height: auto; }
+.galeria__legenda { display: block; padding: .9rem 1rem; font-family: var(--fonte-titulo); font-weight: 700; color: var(--azul-escuro); }
+@media (min-width: 768px) { .galeria { grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: start; } }
+
 /* ===== Participe ===== */
 .passos { list-style: none; counter-reset: passo; display: grid; gap: var(--esp-2); margin: var(--esp-3) 0; }
 .passos li { counter-increment: passo; position: relative; padding: var(--esp-2) var(--esp-2) var(--esp-2) 4.2rem; background: var(--azul-fundo); border-radius: var(--raio); }

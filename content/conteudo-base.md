@@ -84,6 +84,15 @@ Compromisso da arte: resolver infiltrações e goteiras, evitar alagamentos na g
 abrir e fortalecer a comunicação com os moradores, modernizar a manutenção e a gestão do condomínio.
 > Atenção: não consta no PDF. Preferir "diagnosticar, priorizar e enfrentar" até a Cleunice aprovar a redação.
 
+## Artes da campanha publicadas no site (site/assets/artes)
+Artes já veiculadas no WhatsApp, adicionadas a pedido do responsável pelo site em 18/11/2026:
+- `sindica-presente.jpg` – "Agora a síndica sempre estará no condomínio! Presença, gestão e respostas de verdade!"
+  > Atenção: faz referência à gestão atual (mensagens repetidas "a síndica está no condomínio").
+- `valor-condominio.jpg` – "Na gestão da Cleunice o valor do condomínio se mantém!" + controle de gastos, planejamento financeiro, prestação de contas.
+  > Atenção: o PDF diz "sem transferir continuamente novos custos", não garante valor fixo.
+- `regulamento-emergencia.jpg` – capachos, fechadura eletrônica, porta do bloco em emergência (ligada à revisão do Regimento e às portas de emergência).
+- **Não publicar** a arte "Cansado dos mesmos problemas?" original: traz o nome da antiga parceira de candidatura.
+
 ## Participação [MSG – ideias reescritas]
 - Uma mudança de verdade só acontece quando muitas pessoas decidem construí-la juntas.
 - Cada conversa com um vizinho e cada convite para conhecer o Plano de Gestão faz diferença.
